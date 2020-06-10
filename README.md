@@ -16,3 +16,6 @@ IS 601850 - Homework: Docker Tutorial with Python
 ![Step 4c](/codeshots/step4c.png)
 ![Step 4d](/codeshots/step4d.png)
 ![Step 4e](/codeshots/step4e.png)
+![Step 4f](/codeshots/step4f.png)
+
+## Step 5
